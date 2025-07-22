@@ -1,5 +1,7 @@
-🚗 Car Rental Website
-A modern and responsive Car Rental web application built using React.js and Tailwind CSS. This project allows users to browse, select, and rent cars with a sleek and intuitive user interface.
+🚗 car Rental Website
+A modern and responsive Car Rental web application built using React.js and Tailwind CSS. 
+This project allows users to browse, select, 
+and rent cars with a sleek and intuitive user interface.
 
 🛠️ Tech Stack
 Frontend: React.js
